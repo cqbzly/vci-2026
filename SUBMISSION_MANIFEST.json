@@ -1,0 +1,40 @@
+{
+  "snapshot_date": "2026-10-24",
+  "source_directory": "D:\\projects\\vci-2026\\output\\pdf",
+  "files": [
+    {
+      "path": "lab1/LAB1实验报告.pdf",
+      "archive": "lab1.zip",
+      "archive_entry": "LAB1实验报告.pdf",
+      "sha256": "1e76ba89ae93f30d6924e40918b8fb92621269c626c56cd85bfb9ddec81fc800"
+    },
+    {
+      "path": "lab1/tasks.cpp",
+      "archive": "lab1.zip",
+      "archive_entry": "tasks.cpp",
+      "sha256": "68468b5e3d85ad6acd4f31716024d01db0879eb4b1047cae6dbddd2987575a1c"
+    },
+    {
+      "path": "submissions/lab1.zip",
+      "source_file": "lab1.zip",
+      "sha256": "ff962a0fcc307e5dfe0ec1d9eb1c68d75f1212a42474a10675f890b42a98458e"
+    },
+    {
+      "path": "lab2/lab2实验报告.pdf",
+      "archive": "lab2.zip",
+      "archive_entry": "lab2实验报告.pdf",
+      "sha256": "86538a4e33aab27089442e82124549070e083711c03b108a66c62888fafb3b3f"
+    },
+    {
+      "path": "lab2/tasks.cpp",
+      "archive": "lab2.zip",
+      "archive_entry": "tasks.cpp",
+      "sha256": "3531437f99eebf9978eb947bbee8f1024593ffc4a5e2f133291f34e28af9276c"
+    },
+    {
+      "path": "submissions/lab2.zip",
+      "source_file": "lab2.zip",
+      "sha256": "e11f04bfc753baebf790ab46bf1ef8b8e9707ba61918443d35a60b02bc072e86"
+    }
+  ]
+}

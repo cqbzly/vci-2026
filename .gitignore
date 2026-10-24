@@ -1,0 +1,6 @@
+build/
+.xmake/
+.vscode/
+*.exe
+*.obj
+*.o
